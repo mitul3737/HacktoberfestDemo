@@ -25,6 +25,7 @@ Youtube: https://www.youtube.com/channel/UCz5O3xDcr4Wxh-p2Zj-re_A <br>
 -   You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official Hacktoberfest website for your pull requests to count.
 
 ### Official Links for Hacktoberfest
+### hacktoberfest is very fantastic program/event of the world because this is open source program for everyone
 
 Sign up for Hacktoberfest: https://hacktoberfest.digitalocean.com/register  
 Official Website: https://hacktoberfest.digitalocean.com/  
