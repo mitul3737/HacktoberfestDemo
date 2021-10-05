@@ -26,6 +26,7 @@ Youtube: https://www.youtube.com/channel/UCz5O3xDcr4Wxh-p2Zj-re_A <br>
 
 ### Official Links for Hacktoberfest
 ### hacktoberfest is very fantastic program/event of the world because this is open source program for everyone
+### Event is  live fast grow your team
 
 Sign up for Hacktoberfest: https://hacktoberfest.digitalocean.com/register  
 Official Website: https://hacktoberfest.digitalocean.com/  
