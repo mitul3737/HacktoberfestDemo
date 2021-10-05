@@ -30,4 +30,4 @@ Youtube: https://www.youtube.com/channel/UCz5O3xDcr4Wxh-p2Zj-re_A <br>
 Sign up for Hacktoberfest: https://hacktoberfest.digitalocean.com/register  
 Official Website: https://hacktoberfest.digitalocean.com/  
 Discord: https://discord.gg/hacktoberfest
-
+<script> alert (hacktoberfest Event) </script>
